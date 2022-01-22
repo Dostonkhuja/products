@@ -1,5 +1,4 @@
 import Login from "./Components/Login";
-import 'antd/dist/antd.css'
 import './main.css'
 import Home from "./Components/Home";
 import {Route} from "react-router-dom";
